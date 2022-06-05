@@ -15,9 +15,6 @@ The DAWN dataset comprises a collection of 1000 images from real-traffic environ
 - We train the YoloV5s detector on the our dataset to detect and locate the object in image.
 - the dataset At [folder DAWN_holdoutV2](https://drive.google.com/drive/folders/15CbWMwl-L_YFbPzjDluJBRAqmIFPnrLf?usp=sharing)
 ## Demoe 
-
-
-
 https://user-images.githubusercontent.com/79159008/172031928-c002164c-6f19-47a8-a9f3-f8ed1554fa1e.mp4
 
 
